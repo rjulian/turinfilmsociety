@@ -37,7 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   to watch great examples of cinema and discuss our love for
   the visual arts.
 author: Richard Julian
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/"
