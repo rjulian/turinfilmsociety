@@ -11,6 +11,7 @@ order: 3
 3. Mulholland Drive - Discussion on March 20, 2025.
 4. Bonnie and Clyde (1967) - Discussion on April 17, 2025.
 5. Wild Strawberries (1957) - Discussion on May 15, 2025.
+6. The Lives of Others (2006) - Discussion on June 19th, 2025.
 
 ### Selection and Voting for Future Films
 
