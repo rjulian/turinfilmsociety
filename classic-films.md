@@ -22,24 +22,60 @@ order: 3
 
 ### February 2025 - Options
 1. Godzilla (1954)
+2. Taxi Driver  (1976)
+3. Nashville (1975)
 
 ### March 2025 - Options
 1. Mulholland Drive (2001)
+2. Pan's Labrynth (2006)
+3. Dial M For Murder (1954)
+4. Memoirs of a Geisha (2005)
+5. Possession (1981)
+6. Talk To Her (2002)
+7. Wild Strawberries (1957)
+8. The Holy Mountain (1973)
 
 ### April 2025 - Options
 1. Bonnie and Clyde (1967)
+2. After Hours (1985)
+3. Z (1969)
+4. City Lights (1931)
+5. 12 Angry Men (1957)
+6. The Passion of Joan of Arc (1928)
+7. Synecdoche, New York (2008)
 
 ### May 2025 - Options
 1. Wild Strawberries (1957)
+2. Seven Samurai (1954)
+3. Solaris (1972)
+4. Catch 22 (1970)
+5. The Grapes of Wrath (1940)
+6. All About Eve (1950)
 
 ### June 2025 - Options
 1. The Lives of Others (2006)
+2. This Is Spinal Tap (1984)
+3. Snow White (1937)
+4. In the Mood for Love (2000)
+5. It Happened One Night (1934)
+6. The Postman (1994)
+7. Spring in a Small Town (1948)
+8. Primal Fear (1996)
 
 ### July 2025 - Options
 1. Memories of Murder (2003)
+2. Tokyo Story (1953)
+3. Singin in the Rain (1952)
+4. Lawrence of Arabia (1962)
+5. Trouble in Paradise (1932)
+6. The Decameron (1972)
 
 ### August 2025 - Options
 1. Battle of Algiers (1967)
+2. Sunrise: A Song of Two Humans (1927)
+3. You're On Your Own (1959)
+4. Young Frankenstein (1974)
+5. A Man Escaped (1956
 
 
 ### Selection and Voting for Future Films
