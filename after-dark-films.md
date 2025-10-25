@@ -11,6 +11,9 @@ order: 4
 3. Midnight in Paris (2011) - Discussion on June 5, 2025.
 4. Amores Perros (2000) - Discussion on July 3, 2025
 5. Solaris (1972) - Discussion on August 7, 2025.
+6. All About Eve (1950) - Discussion on September 4, 2025.
+7. The Lighthouse (2019) - Discussion on October 2nd, 2025.
+8. All Quiet on the Western Front (1930) - Discussion on November 6, 2025.
 
 ## Voting information
 
@@ -48,6 +51,26 @@ order: 4
 5. The Fifth Element (1997)
 6. Solaris (1972)
 
+### September 2025 - Second Chances - Options
+1. Trouble in Paradise (1932)
+2. Hard Boiled (1992)
+3. All About Eve (1950)
+
+### October 2025 - Masters of Horror - Options
+1. The Lighthouse (2019)
+2. Possession (1980)
+3. Black Christmas (1974)
+4. Get Out (2017)
+5. Texas Chainsaw Massacre (1974)
+
+### November 2025 - 1930s Film - Options
+1. All Quiet on the Western Front (1930)
+2. Vampyr (1932)
+3. Mr. Smith Goes to Washington (1939)
+4. I'm No Angel (1933)
+5. Trouble in Paradise (1932)
+6. Freaks (1932)
+7. M (1931)
 
 
 ### Selection and Voting for Future Films
