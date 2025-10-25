@@ -14,6 +14,9 @@ order: 3
 6. The Lives of Others (2006) - Discussion on June 19th, 2025.
 7. Memories of Murder (2003) - Discussion on July 17, 2025.
 8. Battle of Algiers (1967) - Discussion on August 21, 2025.
+9. Hable con Ella (2002) - Discussion on September 18, 2025.
+10. Il Sorpasso (1962) - Discussion on October 16, 2025.
+11. 8 1/2 (1963) - Discussion on November 20, 2025.
 
 ## Voting information
 
@@ -76,6 +79,23 @@ order: 3
 3. You're On Your Own (1959)
 4. Young Frankenstein (1974)
 5. A Man Escaped (1956
+
+### October 2025 - Options
+1. Il Sorpasso (1962)
+2. High and Low (1963)
+3. The Bridge on the River Kwai (1957)
+4. The African Queen (1952)
+5. Russian Ark (2002)
+6. Barry Lyndon (1975)
+7. Magnolia (1999)
+8. Born Yesterday (1950)
+
+### November 2025 - Options
+1. The Sting (1973)
+2. 8 1/2 (1963)
+3. The Night of the Hunter (1955)
+4. Late Spring (1949)
+5. Koyaanisqatsi (1982)
 
 
 ### Selection and Voting for Future Films
