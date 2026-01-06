@@ -14,6 +14,8 @@ order: 4
 6. All About Eve (1950) - Discussion on September 4, 2025.
 7. The Lighthouse (2019) - Discussion on October 2nd, 2025.
 8. All Quiet on the Western Front (1930) - Discussion on November 6, 2025.
+9. Arrival (2016) - Discussion on December 5, 2025.
+10. Lost in Translation (2003) - Discussion on January 10, 2026.
 
 ## Voting information
 
@@ -72,6 +74,31 @@ order: 4
 6. Freaks (1932)
 7. M (1931)
 
+### December 2025 - Aliens - Options
+1. Nope (2022)
+2. Arrival (2016)
+3. Mars Attacks! (1996)
+4. Contact (1997)
+5. The Thing (1982)
+6. Dark City (1998)
+7. Galaxy Quest (1999)
+8. Invasion of the Body Snatchers (1978)
+
+### January 2026 - Wildcard - Options
+1. Tank Girl (1995)
+2. Flirting with Disaster (1996)
+3. Lost in Translation (2003)
+4. Peking Opera Blues (1986)
+5. Promising Young Woman (2020)
+
+### February 2026 - Documentary - Options
+1. We Live in Public (2009)
+2. Pumping Iron (1977)
+3. Searching for Sugar Man (2012)
+4. Sarajevo Safari (2022)
+5. Encounters at the End of the World (2008)
+6. Original Cast Album: Company (1970)
+7. The Green Prince (2014)
 
 ### Selection and Voting for Future Films
 

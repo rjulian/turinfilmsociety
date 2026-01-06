@@ -17,6 +17,8 @@ order: 3
 9. Hable con Ella (2002) - Discussion on September 18, 2025.
 10. Il Sorpasso (1962) - Discussion on October 16, 2025.
 11. 8 1/2 (1963) - Discussion on November 20, 2025.
+12. Tokyo Story (1953) - Discussion on December 18, 2025
+13. Psycho (1960) - Discussion on January 15, 2026.
 
 ## Voting information
 
@@ -97,6 +99,21 @@ order: 3
 4. Late Spring (1949)
 5. Koyaanisqatsi (1982)
 
+### December 2025 - Options
+1. A Christmas Story (1983) 
+2. Tokyo Story (1953)
+3. Groundhog Day (1993)
+4. Casablanca (1942)
+5. The Wages of Fear (1953)
+6. Casque d'Or (1952)
+
+### January 2026 - Options
+1. The Wages of Fear (1953)
+2. Psycho (1960)
+3. Happy Together (1997)
+4. It's a Wonderful Life (1948)
+5. Cinema Paradiso (1988)
+6. Pandora's Box (1929)
 
 ### Selection and Voting for Future Films
 
