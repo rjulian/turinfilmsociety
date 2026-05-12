@@ -100,6 +100,36 @@ order: 4
 6. Original Cast Album: Company (1970)
 7. The Green Prince (2014)
 
+### March 2026 - Silent Films - Options
+1. Battleship Potemkin (1925)
+2. Metropolis (1927)
+3. Modern Times (1936)
+4. Man with a Movie Camera (1929)
+5. Safety Last! (1923)
+6. The Crowd (1928)
+
+### April 2026 - Indian Cinema - Options
+1. Charulata (1964)
+2. Sholay (1975)
+3. Mother India (1957)
+
+### May 2026 - Animated - Options
+1. Spirit: Stallion of the Cimarron (2002)
+2. Final Fantasy: The Spirits Within (2001)
+3. Paprika (2006)
+4. Coraline (2009)
+5. Akira (1988)
+6. Ponyo (2008)
+7. Fantastic Mr. Fox (2009)
+
+### June 2026 - Based upon a true story. - Options
+1. Grey Gardens (1975)
+2. The Producers (1967)
+3. Dersu Uzala (1975)
+4. Walker (1987)
+5. Zodiac (2007)
+6. Free Willy (1993)
+
 ### Selection and Voting for Future Films
 
 Currently discussed and voting information available on WhatsApp.

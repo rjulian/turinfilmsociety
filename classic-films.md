@@ -115,6 +115,32 @@ order: 3
 5. Cinema Paradiso (1988)
 6. Pandora's Box (1929)
 
+### February 2026 - Options
+
+### March 2026 - Options
+1. Frankenstein (1931)
+2. Romeo and Juliet (1968)
+3. In the Mood for Love (2000)
+4. L'Avventura (1960)
+5. The Sweet Smell of Success (1957)
+6. Clueless (1995)
+7. To Sir, With Love (1967)
+
+### April 2026 - Options
+1. Victor Victoria (1982)
+2. Red Poppies on Walls (1976)
+3. Once Upon A Time in the West (1968)
+4. Trouble in Paradise (1932)
+5. Silence of the Lambs (1991)
+6. Breathless (1960)
+
+### May 2026 - Options
+1. When Harry Met Sally (1989)
+2. Persepolis (2008)
+3. The Little Foxes (1941)
+4. My Left Foot (1989)
+5. The Devils (1971)
+
 ### Selection and Voting for Future Films
 
 Currently discussed and voting information available on WhatsApp.
